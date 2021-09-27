@@ -1,2 +1,2 @@
-# de-i-kenler
+# degiskenler
 c sharp değişkenleri öğrenildi.
